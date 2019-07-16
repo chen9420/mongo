@@ -91,6 +91,16 @@ conn.model('模型名','骨架名')
 
         这里的age是没有的在骨架中的，所以age是不能成功添加到数据库中的
        ```
+       4. 
+       ```
+        let arr =[];
+        for(let i=0;i<1000;i++){
+            arr.push({
+                user:zf+i,
+                pass:555
+            })
+        }
+       ```
 
  - 删 delete
     
