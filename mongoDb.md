@@ -5,3 +5,8 @@
 2. 点击Download下载安装即可
 3. 无脑回车即可
 4. 一般放到c盘 Program Files 里
+## 使用  
+1. 在MongoDB下的Server里的3.4里的bin里面打开服务器
+2. 输入命令  
+.\mongod.exe --dbpath=放db的地址 --port=27017
+3. 连接成功即可
